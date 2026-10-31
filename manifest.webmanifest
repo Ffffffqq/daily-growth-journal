@@ -1,0 +1,19 @@
+{
+  "name": "Daily Growth · 每日成长日记",
+  "short_name": "每日成长",
+  "description": "记录心情、运动、饮食、睡眠、学习和日常生活。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f3",
+  "theme_color": "#f4f7f3",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
